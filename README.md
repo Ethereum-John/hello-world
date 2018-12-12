@@ -1,3 +1,6 @@
 # hello-world
 Beginner's Guide
-Newb trying this out for first time
+Newb 
+
+
+Trying this out for first time
